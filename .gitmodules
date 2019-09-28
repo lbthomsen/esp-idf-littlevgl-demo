@@ -2,3 +2,6 @@
 	path = components/esp-idf-littlevgl
 	url = git@github.com:lbthomsen/esp-idf-littlevgl.git
 	branch = master
+[submodule "components/examples/lv_examples"]
+	path = components/examples/lv_examples
+	url = git@github.com:littlevgl/lv_examples.git
