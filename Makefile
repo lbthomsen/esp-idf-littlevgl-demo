@@ -3,7 +3,7 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := esp32_st7789
+PROJECT_NAME := esp-idf-littlevgl-demo
 
 # Add new components (source folders)
 # Must be before include $(IDF_PATH)/make/project.mk
