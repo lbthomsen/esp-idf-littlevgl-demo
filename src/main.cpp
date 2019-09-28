@@ -14,10 +14,8 @@
 #include "esp_freertos_hooks.h"
 
 
-#include "drv/disp_spi.h"
-#include "drv/st7789.h"
-//#include "drv/tp_spi.h"
-//#include "drv/xpt2046.h"
+#include "disp_spi.h"
+#include "st7789.h"
 
 static void IRAM_ATTR lv_tick_task(void);
 
