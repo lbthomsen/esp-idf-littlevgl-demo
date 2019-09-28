@@ -1,0 +1,4 @@
+[submodule "components/esp-idf-littlevgl"]
+	path = components/esp-idf-littlevgl
+	url = git@github.com:lbthomsen/esp-idf-littlevgl.git
+	branch = master
